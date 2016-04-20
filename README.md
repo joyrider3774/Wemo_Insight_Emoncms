@@ -3,7 +3,7 @@
 Read wemo insight power usuage and send the data to emoncms
 
 ## Build
-Make sure you use Delphi XE, open the dpr file from the source directory and compile. It was written using delphi XE 7
+Make sure you use Delphi XE, open the dpr file from the source directory and compile. It was written using delphi XE 7.
 
 Next, create a config file per wemo insight you have.
 
