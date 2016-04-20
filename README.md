@@ -8,7 +8,7 @@ Make sure you use Delphi XE, open the dpr file from the source directory and com
 Next, create a config file per wemo insight you have.
 
 ## Prebuild version
-A Prebuild windows version is availible here in the Release directory (https://github.com/joyrider3774/Wemo_Insight_Emoncms/master/Releases/WemoInsightEmoncms-1.0.zip)
+A Prebuild windows version is availible here in the Release directory (https://github.com/joyrider3774/Wemo_Insight_Emoncms/blob/master/Releases/WemoInsightEmoncms-1.0.zip?raw=true)
 
 ## Usage
 ```
@@ -17,7 +17,7 @@ WemoInsightEmoncms.exe
 ```
 
 ## Configfile
-See WemoInsight1.conf (https://github.com/joyrider3774/Wemo_Insight_Emoncms/master/example_configs/WemoInsight1.conf)
+See WemoInsight1.conf (https://github.com/joyrider3774/Wemo_Insight_Emoncms/blob/master/Example_configs/WemoInsight1.conf)
 
 ```
 Debug:      can ben 1 or 0 to display more data while running (i leave it mostly at 1) 
@@ -34,7 +34,7 @@ If WemoInsightEmoncms.conf exists in the current directory it will be used, othe
  
 ## Watchdog
 Somtimes WemoInsightEmoncms will not be able to connect to the device and will quit when this happens. A sample windows batch file is included to start 
-WemoInsightEmoncms in a loop so that whenever WemoInsightEmoncms quits it is automatically restarted (see https://github.com/joyrider3774/Wemo_Insight_Emoncms/master/example_configs/WemoInsight1.bat)
+WemoInsightEmoncms in a loop so that whenever WemoInsightEmoncms quits it is automatically restarted (see https://github.com/joyrider3774/Wemo_Insight_Emoncms/blob/master/Example_configs/WemoInsight1.bat)
 It is advised to use this method, otherwise you will need to restart the program a lot of times manually whenever any kind of error happens. The program
 is setup in such a way that it quits whenever an error occurred
 
