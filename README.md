@@ -8,7 +8,7 @@ Make sure you use Delphi XE, open the dpr file from the source directory and com
 Next, create a config file per wemo insight you have.
 
 ## Prebuild version
-A Prebuild windows version is availible here in the Release directory (https://github.com/joyrider3774/Wemo_Insight_Emoncms/blob/master/Releases/WemoInsightEmoncms-1.0.zip?raw=true)
+A Prebuild windows version is availible in the releases section
 
 ## Usage
 ```
